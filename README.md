@@ -1,3 +1,4 @@
+`rgb(9, 105, 218)`
 # ConvertBot 
 ## This bot is your best friend for fast converting in global popular currencies like as USD, EUR, GBP and more local RUB and TRY.
 
